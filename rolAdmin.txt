@@ -1,0 +1,21 @@
+{
+    "nombre" : "admin",
+    "permisos" : [ 
+        "/insertarDocumento", 
+        "/insertarTag", 
+        "/borrarTag", 
+        "/listarDocumentos", 
+        "/transferirDocumento", 
+        "/eliminaDocumento", 
+        "/actualizaDocumento", 
+        "/insertarRol", 
+        "/modificarRol", 
+        "/borrarRol", 
+        "/listarRol", 
+        "/asignarRol", 
+        "/insertarUsuario", 
+        "/modificarUsuario", 
+        "/borrarUsuario", 
+        "/listarUsuarios"
+    ]
+}
